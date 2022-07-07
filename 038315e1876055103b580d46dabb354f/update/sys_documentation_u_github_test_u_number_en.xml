@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_number" label="Number" language="en" table="u_github_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>u_github_test</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-07 10:25:25</sys_created_on>
+            <sys_id>c47499a9876055103b580d46dabb3515</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="ghub" source="038315e1876055103b580d46dabb354f">038315e1876055103b580d46dabb354f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ghub">038315e1876055103b580d46dabb354f</sys_scope>
+            <sys_update_name>sys_documentation_u_github_test_u_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-07 10:25:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
